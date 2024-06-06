@@ -1,6 +1,6 @@
 # Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs
 
-Code provided to reproduce the main experiments in the paper - Figs. 1, 2, 3 and 4 from the main paper as well as Fig. 7 from Appendix D.
+Code provided to reproduce the main experiments in our [UAI 2024 paper](https://arxiv.org/abs/2406.02456) - Figs. 1, 2, 3 and 4 from the main paper as well as Fig. 7 from Appendix D.
 
 ## Installation
 
